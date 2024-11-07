@@ -1,9 +1,9 @@
-gradio==4.22.0
+gradio==5.5.0
 xformers==0.0.20
-torch==2.0.1
+torch==2.2.0
 torchvision==0.15.2
 diffusers==0.25.0
-transformers==4.36.2
+transformers==4.38.0
 huggingface-hub==0.20.2
 spaces==0.19.4
 numpy
